@@ -22,8 +22,8 @@ Orang itu harus sudah memahami modifikasi
 perngkat dan paham akan besick nonroot dill.
 
 ## PEMBUAT ❓️
-- [Telegram](@UnixeID)
-  [Support](https://t.me/Yeye_PID)
+- Telegram : @UnixeID
+- [Support](https://t.me/Yeye_PID)
 
  ## ⚠️WARING :
  Kalo penggun mau meyertakan script saya di dalam
