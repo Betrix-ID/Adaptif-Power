@@ -1,1 +1,1 @@
-! [prop ](Apple/img/prop.png)
+![prop text](Apple/img/prop.png)
