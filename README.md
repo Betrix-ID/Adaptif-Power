@@ -9,7 +9,7 @@ Game and dayli
 - Meningkatkan performance < in game >
 - Menghemat Battery < in closs game >
 - High Fps in game and mengurangi beban CPU & RAM
-Secara efisen
+Secara sgnifikan
 
 > Dari semua Efek yang saya jelaskan di atas itu pada akhir nya bergantung pada device and cipset apa yang kalian gunakan
 
@@ -23,7 +23,7 @@ perngkat dan paham akan besick nonroot dill.
 
 ## PEMBUAT ❓️
 - Telegram : @UnixeID
-- Support  : [klik](https://t.me/Yeye_PID)
+- Support    : [klik](https://t.me/Yeye_PID)
 
  ## ⚠️WARING :
  Kalo penggun mau meyertakan script saya di dalam
