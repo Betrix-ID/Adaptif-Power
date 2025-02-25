@@ -6,9 +6,9 @@ menyesuaikan kondisi device di saat diguakan
 Game and dayli 
 
 ## ⚠️ Notes Efek :
-1). Meningkatkan performance ( in game )
-2). Menghemat Battery ( in closs game )
-3). High Fps in game and mengurangi beban CPU & RAM
+- Meningkatkan performance < in game >
+- Menghemat Battery < in closs game >
+- High Fps in game and mengurangi beban CPU & RAM
 Secara efisen
 
 > Dari semua Efek yang saya jelaskan di atas itu pada akhir nya bergantung pada device and cipset apa yang kalian gunakan
