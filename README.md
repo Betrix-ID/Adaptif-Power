@@ -6,8 +6,8 @@ menyesuaikan kondisi device di saat diguakan
 Game and dayli 
 
 ## ⚠️ Notes Efek :
-1). Meningkatkan performance < in game >
-2). Menghemat Battery < in closs game >
+1). Meningkatkan performance ( in game )
+2). Menghemat Battery ( in closs game )
 3). High Fps in game and mengurangi beban CPU & RAM
 Secara efisen
 
@@ -23,10 +23,10 @@ perngkat dan paham akan besick nonroot dill.
 
 ## PEMBUAT ❓️
 - Telegram : @UnixeID
-- [Support](https://t.me/Yeye_PID)
+- Support  : [klik](https://t.me/Yeye_PID)
 
  ## ⚠️WARING :
  Kalo penggun mau meyertakan script saya di dalam
  Module mohon sertakain creadit kalo tidak di sertakan
- creadit saya tidak bertanggunv jawab atas hal 
+ creadit saya tidak bertanggung jawab atas
  script yang di pake pengguna dill
