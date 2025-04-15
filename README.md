@@ -1,6 +1,6 @@
 ![prop text](Apple/img/prop.png)
 
-# Adaptif Power 🍃
+# Adaptif Power V3.0 [Poin X-Treme]🍃
 adalah script shell C yang saya bikin untuk
 menyesuaikan kondisi device di saat diguakan
 Game and dayli 
