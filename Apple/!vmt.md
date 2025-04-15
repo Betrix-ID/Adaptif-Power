@@ -7,7 +7,7 @@
             install with > Brevent
 
 # Disclemoer shell :
-    $ Shell script C ini saya bikin untuk Meningkatkan dan mengoptimalkan power and sumber daya backgorund 
+    $ Shell script C++ ini saya bikin untuk Meningkatkan dan mengoptimalkan power and sumber daya backgorund 
     
 # Dengan Cara :
     $ Meningkatkan power di saat gamelist terditeksi running
