@@ -1,8 +1,8 @@
-# Date : 18 - 02 - 2025          
+# Date : 15 - 04 - 2025          
         [ Adaptif Power - Nonroot ]
                    Author 
      Telegram @UnixeID | Github Betrix-ID
-                version : 2.0
+                version : 3.0
          ////////////////\\\\\\\\\\\\\\\\
             install with > Brevent
 
@@ -21,6 +21,7 @@
     $ Semakin meningkatkan performance
     $ Optimizer CPU and RAM secara sgnifikan
     $ Efisensi Battery and closs Game
+    $ Menghidari overhead logging & Memberbanyak RAM 
     and lain-lainya
 
 # Recomened :
@@ -44,10 +45,10 @@
 # install :
 Ekstrak dulu ' zip ' Ke internal
 Lalu Jalankan Perintah down Here :
-sh /sdcard/Apple/run.sh
+sh /sdcard/X-Treme/run.sh
 
 # Uninstall : 
-sh /sdcard/Apple/run.sh kill
+sh /sdcard/X-Treme/run.sh kill
 
 # Disclemoer Efek :
     $ Maaf jika script nya tidak begitu Berefek pada device kalian kerena tiap Device, Kernel And Versi Andorid Berbeda-beda Susah membuat script nya bekerja 100% dill..

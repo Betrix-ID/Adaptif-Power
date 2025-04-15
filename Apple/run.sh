@@ -4,6 +4,17 @@ if [ "$(id -u)" -ne 2000 ]; then
     echo "[ Error |@UnixeID(Yeye)]"
     exit 1
 fi
+#Cheking cpu.abi
+   if [ ! -f /sdcard/X-Treme/main ]; then
+	    architecture=$(getprop ro.product.cpu.abi)
+	  if [ "$architecture" = "arm64-v8a" ]; then
+		mv /sdcard/X-Treme/arm64 /sdcard/X-Treme/main
+		rm /sdcard/X-Treme/arm
+	elif [ "$architecture" = "armeabi-v7a" ]; then
+		mv /sdcard/X-Treme/arm /sdcard/X-Treme/main
+		rm /sdcard/X-Treme/arm64
+	fi
+  fi
 # Smart Notification
 shell() {
     sor="$1"
@@ -16,8 +27,8 @@ shell() {
     echo "       ~ Description Adaptif power.... "
     echo
     echo "       - Author                 :  @UnixeID"
-    echo "       - Version                :  2.0"
-    echo "       - Release               :  17 - Feb - 2025"
+    echo "       - Point                    :  3.0 [ Exterme ]"
+    echo "       - Release               :  12 - April - 2025"
     echo "       - Name Shell         :  Adaptif power"
     echo
     echo "    |_______________________________________|"
@@ -40,7 +51,7 @@ shell() {
             echo "Paket game '$line' tidak ditemukan."
               fi
                 fi
-            done < /sdcard/Apple/gamelist.txt
+            done < /sdcard/X-Treme/gamelist.txt
    # Buat kill proses in background
   pkill -f logcat
        # Buat varibale instlling and uninstalling script
@@ -56,7 +67,7 @@ shell() {
    fi
   else
      if pgrep -f main > /dev/null 2>&1; then
-       cp /sdcard/Apple/main /data/local/tmp
+       cp /sdcard/X-Treme/main /data/local/tmp
        chmod +x /data/local/tmp/main
       nohup /data/local/tmp/main > /dev/null 2>&1
     fi 
